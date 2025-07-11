@@ -1,0 +1,36 @@
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.dll
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.pdb
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.xml
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHar.DCCA453D.Up2Date
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.dll
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.xml
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.pdb
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.dll
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.pdb
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.xml
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHar.DCCA453D.Up2Date
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.dll
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.xml
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.pdb
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.dll
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.pdb
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net472\LibreHardwareMonitorLib.xml
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHar.DCCA453D.Up2Date
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.dll
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.xml
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.pdb

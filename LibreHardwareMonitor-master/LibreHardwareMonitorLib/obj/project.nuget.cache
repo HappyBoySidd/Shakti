@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnTHv3WihTI=",
+  "success": true,
+  "projectFilePath": "D:\\src\\My Experiments with Truth\\Shakti\\LibreHardwareMonitor-master\\LibreHardwareMonitorLib\\LibreHardwareMonitorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\320195932\\.nuget\\packages\\hidsharp\\2.1.0\\hidsharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\mono.posix.netstandard\\1.0.0\\mono.posix.netstandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\ramspdtoolkit-ndd\\1.1.4\\ramspdtoolkit-ndd.1.1.4.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.6\\runtime.android-arm.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.6\\runtime.android-arm64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.6\\runtime.android-x64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.6\\runtime.android-x86.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.6\\runtime.linux-arm.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.6\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.6\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.6\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.6\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.6\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.6\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.6\\runtime.linux-x64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.6\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.6\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.6\\runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.6\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.6\\runtime.osx-x64.runtime.native.system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.codedom\\9.0.6\\system.codedom.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.io.ports\\9.0.6\\system.io.ports.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.management\\9.0.6\\system.management.9.0.6.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\320195932\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RAMSPDToolkit-NDD 1.1.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RAMSPDToolkit-NDD",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

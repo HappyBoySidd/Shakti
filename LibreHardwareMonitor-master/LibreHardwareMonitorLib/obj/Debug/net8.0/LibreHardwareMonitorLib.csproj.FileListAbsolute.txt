@@ -1,0 +1,42 @@
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.deps.json
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.dll
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.pdb
+D:\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.xml
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.dll
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\refint\LibreHardwareMonitorLib.dll
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.xml
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.pdb
+D:\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\ref\LibreHardwareMonitorLib.dll
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.deps.json
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.dll
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.pdb
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.xml
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.dll
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\refint\LibreHardwareMonitorLib.dll
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.xml
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.pdb
+D:\src\Energy Metrics Work\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\ref\LibreHardwareMonitorLib.dll
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.deps.json
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.dll
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.pdb
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\bin\Debug\net8.0\LibreHardwareMonitorLib.xml
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.dll
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\refint\LibreHardwareMonitorLib.dll
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.xml
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\LibreHardwareMonitorLib.pdb
+D:\src\My Experiments with Truth\Shakti\LibreHardwareMonitor-master\LibreHardwareMonitorLib\obj\Debug\net8.0\ref\LibreHardwareMonitorLib.dll

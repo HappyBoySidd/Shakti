@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AuthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\InterfacePortForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ParameterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\PlotPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\SplitContainerAdv.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Themes\ThemedHScrollIndicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Themes\ThemedVScrollIndicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\ToolStripRadioButtonMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WMI\WmiProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
